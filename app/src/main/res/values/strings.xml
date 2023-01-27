@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_text">Login</string>
+    <string name="password_text">Password</string>
+    <string name="btn">Login</string>
+    <string name="main_text_forgot_password">Forgot password</string>
+    <string name="btn_create_password">Get New</string>
+    <string name="main_text_account">Do you have an account?</string>
+    <string name="btn_account">Create new</string>
+</resources>
